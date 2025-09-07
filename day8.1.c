@@ -12,7 +12,7 @@ if (a>='a'&& a<='z')
 printf("Entered character is lower case\n");
 else if (a>='A'&&a<='Z')
 printf("Entered character is upper case\n");
-else if (a>=0 && a<9)
+else if (a>='0' && a<='9')
 printf("Entered character is a digit\n");
 else
 printf("Entered character is a special character\n");
