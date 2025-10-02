@@ -1,4 +1,4 @@
-// Read and print a matrix.
+// Find the sum of all elements in a matrix.
 
 #include <stdio.h>
 int main(){
@@ -33,7 +33,7 @@ for(i=0; i<row ;i++)
     }
 }
 
-printf("SUM OF EACH ELEMENT OF MATRIX: %d", sum);
+printf("SUM OF ALL ELEMENT OF MATRIX: %d", sum);
 
     return 0;
 }
