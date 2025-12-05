@@ -1,6 +1,6 @@
 //Reverse each word in a sentence without changing the word order.
 
-#include <stdio.h>
+#include <stdio.h> 
 #include <string.h>
 
 void reverseWord(char *start, char *end) {
